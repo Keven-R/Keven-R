@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Keven-R
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning C# and Groovy but Also improving C/Pythong/Java/
+- 🌱 I’m currently learning C# and Kotlin but Also improving C/Python/Java/
 - 💞️ I’m looking to collaborate on simple opensource stuff to help improve skills
 - 📫 How to reach me keven.rashleigh@gmail.com
 
